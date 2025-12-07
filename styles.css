@@ -1,0 +1,44 @@
+.asset-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1rem;
+}
+
+.asset-card {
+    background: white;
+    border-radius: 8px;
+    padding: 1rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.asset-card img {
+    max-width: 100%;
+    max-height: 100px;
+    object-fit: contain;
+}
+
+.asset-card.dark-bg {
+    background: #333;
+}
+
+.asset-card p {
+    margin: 0.5rem 0 0;
+    font-size: 0.75rem;
+    color: #666;
+    word-break: break-all;
+}
+
+.asset-card a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.asset-card a:hover {
+    text-decoration: underline;
+}
+
+.dark-bg .asset-card p a {
+    color: #66b3ff;
+}
