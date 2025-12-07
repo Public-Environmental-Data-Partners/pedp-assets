@@ -1,0 +1,112 @@
+---
+title: "PEDP Visual Assets"
+---
+
+Public Environmental Data Partners logo assets. Click any image to view/download.
+
+::: {.callout-note}
+## Repository
+View the source files and contribute at [GitHub](https://github.com/Public-Environmental-Data-Partners/pedp-assets).
+:::
+
+## PEDP Logo
+
+::: {.asset-grid}
+
+::: {.asset-card}
+[![PEDP Logo Offblack](logos/PEDP%20Logo/PEDP_logo_Offblack.png)](logos/PEDP%20Logo/PEDP_logo_Offblack.png)
+
+[PNG](logos/PEDP%20Logo/PEDP_logo_Offblack.png) | [SVG](logos/PEDP%20Logo/PEDP_logo_Offblack.svg)
+:::
+
+::: {.asset-card .dark-bg}
+[![PEDP Logo Offwhite](logos/PEDP%20Logo/PEDP_logo_Offwhite.png)](logos/PEDP%20Logo/PEDP_logo_Offwhite.png)
+
+[PNG](logos/PEDP%20Logo/PEDP_logo_Offwhite.png) | [SVG](logos/PEDP%20Logo/PEDP_logo_Offwhite.svg)
+:::
+
+::: {.asset-card}
+[![PEDP Logo Vertical Offblack](logos/PEDP%20Logo/PEDP_logo_vertical_Offblack.png)](logos/PEDP%20Logo/PEDP_logo_vertical_Offblack.png)
+
+[PNG](logos/PEDP%20Logo/PEDP_logo_vertical_Offblack.png) | [SVG](logos/PEDP%20Logo/PEDP_logo_vertical_Offblack.svg)
+:::
+
+::: {.asset-card .dark-bg}
+[![PEDP Logo Vertical Offwhite](logos/PEDP%20Logo/PEDP_logo_vertical_Offwhite.png)](logos/PEDP%20Logo/PEDP_logo_vertical_Offwhite.png)
+
+[PNG](logos/PEDP%20Logo/PEDP_logo_vertical_Offwhite.png) | [SVG](logos/PEDP%20Logo/PEDP_logo_vertical_Offwhite.svg)
+:::
+
+:::
+
+## PEDP Icon
+
+::: {.asset-grid}
+
+::: {.asset-card}
+[![Icon Offblack](logos/PEDP%20Icon/PEDP_icon_Offblack.png)](logos/PEDP%20Icon/PEDP_icon_Offblack.png)
+
+[PNG](logos/PEDP%20Icon/PEDP_icon_Offblack.png) | [SVG](logos/PEDP%20Icon/PEDP_icon_Offblack.svg)
+:::
+
+::: {.asset-card .dark-bg}
+[![Icon Offwhite](logos/PEDP%20Icon/PEDP_icon_Offwhite.png)](logos/PEDP%20Icon/PEDP_icon_Offwhite.png)
+
+[PNG](logos/PEDP%20Icon/PEDP_icon_Offwhite.png) | [SVG](logos/PEDP%20Icon/PEDP_icon_Offwhite.svg)
+:::
+
+::: {.asset-card}
+[![Icon Darkblue](logos/PEDP%20Icon/PEDP_icon_Darkblue.png)](logos/PEDP%20Icon/PEDP_icon_Darkblue.png)
+
+[PNG](logos/PEDP%20Icon/PEDP_icon_Darkblue.png) | [SVG](logos/PEDP%20Icon/PEDP_icon_Darkblue.svg)
+:::
+
+::: {.asset-card}
+[![Icon Lightblue](logos/PEDP%20Icon/PEDP_icon_Lightblue.png)](logos/PEDP%20Icon/PEDP_icon_Lightblue.png)
+
+[PNG](logos/PEDP%20Icon/PEDP_icon_Lightblue.png) | [SVG](logos/PEDP%20Icon/PEDP_icon_Lightblue.svg)
+:::
+
+::: {.asset-card}
+[![Icon Darkgreen](logos/PEDP%20Icon/PEDP_icon_Darkgreen.png)](logos/PEDP%20Icon/PEDP_icon_Darkgreen.png)
+
+[PNG](logos/PEDP%20Icon/PEDP_icon_Darkgreen.png) | [SVG](logos/PEDP%20Icon/PEDP_icon_Darkgreen.svg)
+:::
+
+::: {.asset-card}
+[![Icon Lightgreen](logos/PEDP%20Icon/PEDP_icon_Lightgreen.png)](logos/PEDP%20Icon/PEDP_icon_Lightgreen.png)
+
+[PNG](logos/PEDP%20Icon/PEDP_icon_Lightgreen.png) | [SVG](logos/PEDP%20Icon/PEDP_icon_Lightgreen.svg)
+:::
+
+::: {.asset-card}
+[![Icon Beige](logos/PEDP%20Icon/PEPD_icon_Beige.png)](logos/PEDP%20Icon/PEPD_icon_Beige.png)
+
+[PNG](logos/PEDP%20Icon/PEPD_icon_Beige.png) | [SVG](logos/PEDP%20Icon/PEPD_icon_Beige.svg)
+:::
+
+:::
+
+## PEDP Paperclip
+
+::: {.asset-grid}
+
+::: {.asset-card}
+[![Paperclip Offblack](logos/PEDP%20Paperclip/PEDP_logo_paperclip_Offblack.png)](logos/PEDP%20Paperclip/PEDP_logo_paperclip_Offblack.png)
+
+[PNG](logos/PEDP%20Paperclip/PEDP_logo_paperclip_Offblack.png) | [SVG](logos/PEDP%20Paperclip/PEDP_logo_paperclip_Offblack.svg)
+:::
+
+::: {.asset-card .dark-bg}
+[![Paperclip Offwhite](logos/PEDP%20Paperclip/PEDP_logo_paperclip_Offwhite.png)](logos/PEDP%20Paperclip/PEDP_logo_paperclip_Offwhite.png)
+
+[PNG](logos/PEDP%20Paperclip/PEDP_logo_paperclip_Offwhite.png) | [SVG](logos/PEDP%20Paperclip/PEDP_logo_paperclip_Offwhite.svg)
+:::
+
+::: {.asset-card}
+[![Paperclip Beige](logos/PEDP%20Paperclip/PEDP_logo_paperclip_Beige.png)](logos/PEDP%20Paperclip/PEDP_logo_paperclip_Beige.png)
+
+[PNG](logos/PEDP%20Paperclip/PEDP_logo_paperclip_Beige.png) | [SVG](logos/PEDP%20Paperclip/PEDP_logo_paperclip_Beige.svg)
+:::
+
+:::

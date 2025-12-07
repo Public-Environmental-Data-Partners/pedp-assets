@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "PEDP Assets"
+  description: "Public Environmental Data Partners visual assets and brand resources"
+  site-url: https://public-environmental-data-partners.github.io/pedp-assets/
+  repo-url: https://github.com/Public-Environmental-Data-Partners/pedp-assets
+  repo-actions: [issue, source]
+  navbar:
+    background: "#1a1a2e"
+    foreground: "#ffffff"
+    left:
+      - text: "Assets"
+        href: index.qmd
+    right:
+      - icon: github
+        href: https://github.com/Public-Environmental-Data-Partners/pedp-assets
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+# Future: When Quarto 1.9 releases, this brand can be packaged
+# as a dependency using the new brand/extension system
+# brand: _brand.yml

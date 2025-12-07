@@ -1,0 +1,7 @@
+# Quarto output
+/_site/
+/.quarto/
+**/*.quarto_ipynb
+
+# OS files
+.DS_Store
